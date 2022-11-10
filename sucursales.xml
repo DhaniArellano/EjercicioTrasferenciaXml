@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sucursales>
+    <sucursal>
+        <ciudad>Cali</ciudad>
+        <telefono>(572) 554 0505</telefono>
+    </sucursal>
+    <sucursal>
+        <ciudad>Barranquilla</ciudad>
+        <telefono>(575) 361 8888</telefono>
+    </sucursal>
+    <sucursal>
+        <ciudad>Bogota</ciudad>
+        <telefono>(571) 343 00 00</telefono>
+    </sucursal>
+    <sucursal>
+        <ciudad>Cartagena</ciudad>
+        <telefono>(575) 693 4400</telefono>
+    </sucursal>
+</sucursales>
